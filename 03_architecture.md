@@ -15,6 +15,6 @@ This architecture allows:
 - Incremental feature addition
 
   ARCHITECTURE DIAGRAM
-https://1drv.ms/u/c/ebbfca80b6d86d8b/IQAncv9j8V58QIuaJfj4J8j7AaIJ6WcJw9Res2XlF-PIEes?e=srCH0I
+  <img width="1154" height="1425" alt="image" src="https://github.com/user-attachments/assets/2b2a9a57-f581-41b1-acd8-d3446d3ba774" />
 
 
