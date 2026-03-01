@@ -25,4 +25,5 @@ The system identifies trending topics, generates scripts, creates voice and vide
 - OpenAI API
 - FFmpeg / MoviePy
 - YouTube Data API
+
 - Instagram Graph API
