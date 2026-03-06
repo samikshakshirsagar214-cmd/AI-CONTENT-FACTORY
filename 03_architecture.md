@@ -18,3 +18,4 @@ This architecture allows:
   <img width="1154" height="1425" alt="image" src="https://github.com/user-attachments/assets/2b2a9a57-f581-41b1-acd8-d3446d3ba774" />
 
 
+
