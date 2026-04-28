@@ -1,6 +1,7 @@
 # AI Content Factory
 ## DEMO Video:
 https://www.youtube.com/shorts/udjQF7wThrQ
+## Architecture Diagram
 <img width="1154" height="1425" alt="image" src="https://github.com/user-attachments/assets/2799c66f-322a-4063-872a-6b967b98d95d" />
 ## Overview
 This project is an automated AI-based content creation and publishing system for YouTube Shorts and Instagram Reels.  
